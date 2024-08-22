@@ -1,0 +1,24 @@
+// カラー・color, background
+$base-color: #ffffff;
+$main-color: red; //ブランドカラー
+$accent-color: rgb(255, 255, 117);
+
+$text-color: #000; // テキストカラー
+
+$border-color: gray;
+
+
+// サイズ
+$base-font-size: 16px;
+$title-font-size: 50px;
+$text-font-size: 16px;
+
+// $line-height: ;
+
+
+// レイアウト
+$inner-width: 80%;
+
+// 書体・font-family
+$font-ja: "游明朝", "Yu Mincho", YuMincho, "Hiragino Mincho Pro", serif;
+$font-en: "Cormorant Garamond", YuMincho, serif;
