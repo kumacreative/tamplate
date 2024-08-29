@@ -1,0 +1,14 @@
+@use "../global" as g;
+
+body {
+    color: g.$text-color;
+    background-color: g.$base-color;
+    font-family: g.$font-ja;
+    font-size: g.$base-font-size;
+  }
+
+
+.inner {
+    width: g.$inner-width;
+    margin: 0 auto;
+}
