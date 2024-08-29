@@ -1,5 +1,5 @@
 <footer class="l-footer">
-    footerです
+    footerです。
 </footer>
 </body>
 </html>
