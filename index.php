@@ -1,5 +1,1 @@
-<?php get_header(); ?>
-
-<!-- content -->
-
-<?php get_footer(); ?>
+<!-- front-page.phpに記載してください -->

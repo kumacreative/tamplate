@@ -13,3 +13,8 @@
   <header class="l-header">
     headerです。
   </header>
+  <?php
+  if ( function_exists( 'bcn_display' ) ) { 
+    bcn_display();
+  }
+  ?>
